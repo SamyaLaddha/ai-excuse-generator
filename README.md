@@ -1,4 +1,4 @@
-# 🎭 AI Excuse Generator
+# AI Excuse Generator
 
 An AI-powered excuse generation system built with a large language model (Zephyr-7B), featuring multilingual support, voice output, smart ranking, and SMS/email draft templates.
 
@@ -26,8 +26,8 @@ An AI-powered excuse generation system built with a large language model (Zephyr
 
 | Component | Technology |
 |-----------|------------|
-| LLM | `HuggingFaceH4/zephyr-7b-beta` |
-| Translation | `Helsinki-NLP/opus-mt-en-hi` (MarianMT) |
+| LLM | HuggingFaceH4/zephyr-7b-beta |
+| Translation | Helsinki-NLP/opus-mt-en-hi (MarianMT) |
 | Framework | PyTorch + HuggingFace Transformers |
 | Voice | gTTS (Google Text-to-Speech) |
 | Data | Pandas |
